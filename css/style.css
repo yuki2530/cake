@@ -160,7 +160,7 @@ header {
   }
 }
 
-/* サービス */
+/* ショップ */
 #service {
   margin-bottom: 120px;
 }
@@ -198,21 +198,21 @@ header {
 
 
 /* カンパニー */
-#campany {
+#shop  {
   margin-bottom: 120px;
 }
-#company dl {
+#shop dl {
   max-width: 900px;
   margin-left: auto;
 }
-#company dt {
+#shop dt {
   width: 30%;
   padding: 48px 0;
   font-weight: 500;
   border-bottom: solid 1px #fff;
   margin-bottom: 70px;
 }
-#company dd {
+#shop dd {
   width: 70%;
   padding: 48px 0;
   border-bottom: solid 1px #fff;
@@ -220,7 +220,7 @@ header {
 }
 
 @media only screen and (max-width: 768px) {
-  #company dl {
+  #shop  dl {
     font-size: 13px;
   }
 }
